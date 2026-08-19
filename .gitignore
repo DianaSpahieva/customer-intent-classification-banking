@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Local archive
+TODO.txt
+engineer-neural-networks-portfolio-project.zip
+
 # Distribution / packaging
 .Python
 build/
