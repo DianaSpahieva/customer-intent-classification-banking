@@ -325,9 +325,11 @@ Potential extensions identified in the project include:
 ---
 
 ## 📁 Project Structure
+```text
 .
 ├── README.md
 └── banking_issues_classification.ipynb
+```
 
 ---
 
